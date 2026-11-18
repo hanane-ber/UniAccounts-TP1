@@ -11,6 +11,6 @@ Ce projet est un Travail Pratique (TP1) réalisé dans le cadre du module Design
 ## Auteurs
 * Hanane Berrached (بالراشد حنان)
 * Othmane Brahim Azeb (عازب عثمان إبراهيم)
-* Bahri Doua
+* Bahri Doua (دعاء بحري) 
 * Niveau : L2 Informatique
 * Université : Université Echahid Hamma Lakhdar - El Oued
